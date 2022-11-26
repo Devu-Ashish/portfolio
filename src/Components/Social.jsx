@@ -8,7 +8,7 @@ const Social = () => {
     <div className='flex flex-col top-[35%] left-0 fixed'>
       <ul>
         <li className='flex justify-between items-center w-40 h-14 px-4 hover:ml-[-10px] duration-500 bg-gradient-to-r from-sky-400 to-sky-800 ml-[-100px]'>
-          <a href='#' className='flex justify-between items-center w-full text-white'>
+          <a href='https://www.linkedin.com/in/ashish-devu/' className='flex justify-between items-center w-full text-white'>
           <>
             LinkedIn
             <BsLinkedin size={25}/>
@@ -16,7 +16,7 @@ const Social = () => {
           </a>
         </li>
         <li className='flex justify-between items-center w-40 h-14 px-4 hover:ml-[-10px] duration-500 bg-gradient-to-r from-amber-400 to-amber-600 ml-[-100px]'>
-          <a href='#' className='flex justify-between items-center w-full text-white'>
+          <a href='https://github.com/Devu-Ashish' className='flex justify-between items-center w-full text-white'>
           <>
             Github
             <VscGithubInverted size={25}/>
@@ -24,7 +24,7 @@ const Social = () => {
           </a>
         </li>
         <li className='flex justify-between items-center w-40 h-14 px-4 hover:ml-[-10px] duration-500 bg-gradient-to-r from-purple-500 to-pink-600 ml-[-100px]'>
-          <a href='#' className='flex justify-between items-center w-full text-white'>
+          <a href='https://www.instagram.com/ashish_devu/' className='flex justify-between items-center w-full text-white'>
           <>
             Instagram
             <GrInstagram size={25}/>
